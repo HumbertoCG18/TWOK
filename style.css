@@ -1,6 +1,3 @@
 body {
-    background-color: black;
-
-    background-image: linear-gradient(180deg, black 75%, brown 25%);
-
+    background-color: rgb(5, 5, 5);
 }
