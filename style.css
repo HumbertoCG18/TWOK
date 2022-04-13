@@ -1,12 +1,12 @@
 body {
     background-color: black;
 
-    background-image: linear-gradient(black, brown);
+    background-image: linear-gradient(180deg, red, yellow);
 
 }
 
 #grad {
 
-    background-image: linear-gradient(black, brown);
-    
+    background-image: linear-gradient(180deg, red, yellow);
+
   }
