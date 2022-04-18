@@ -1,0 +1,133 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 701px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 101px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 18px 60px 18px 0;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  color: rgb(16, 129, 224) !important;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -51px auto 0 79px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 384px;
+  background-image: url("https://escolabrasileiradegames.com.br/wp2016/wp-content/uploads/2017/12/escola-brasileira-de-games-como-montar-um-estudio-de-desenvolvimento-de-games-estrutura.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 485px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 9px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 87px 0 0 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 545px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 83px;
+  }
+
+  .u-section-1 .u-text-1 {
+    line-height: 2.475;
+    text-transform: none;
+    font-weight: 400;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 317px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 400px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 949px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 486px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 817px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 365px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 670px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 230px;
+  }
+}
